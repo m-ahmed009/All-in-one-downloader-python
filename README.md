@@ -79,7 +79,9 @@ Update the URLs in the text files as needed for the videos you wish to download.
 Feel free to customize and extend this tool to fit your needs. Enjoy downloading your favorite videos with ease!
 
 ![image](https://github.com/user-attachments/assets/d7ea52d1-3c6e-4733-986f-e4bbdaa2db2c)
+
 ![image](https://github.com/user-attachments/assets/fc2c72d0-4e4b-4b48-912e-4faaca2b24b0)
+
 ![image](https://github.com/user-attachments/assets/5a9716f8-11f7-49ba-b7ef-d5752f331baf)
 
 
