@@ -30,11 +30,10 @@ tiktok-api: For accessing TikTok videos.
 
 os and shutil: For file and directory management.
 
-#Installation:
+# Installation:
 Clone the Repository:
 
 bash
-
 
 git clone https://github.com/your-username/all-in-one-downloader.git
 
