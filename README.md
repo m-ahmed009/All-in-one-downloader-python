@@ -1,5 +1,9 @@
 # All-in-One Video Downloader
-Welcome to the All-in-One Video Downloader project! 🎥✨ This Python-based utility allows you to effortlessly download videos from multiple platforms including YouTube, Facebook, and TikTok. With a user-friendly command-line interface, you can select the platform of your choice, and the tool will handle the rest, saving the videos into organized folders within your Downloads directory.
+Welcome to the All-in-One Video Downloader project! 🎥✨ This Python-based utility allows you to effortlessly download videos from multiple platforms including YouTube, Facebook, and TikTok. 
+
+With a user-friendly command-line interface, you can select the platform of your choice, and the tool will handle the rest, saving the videos into organized folders within your Downloads directory.
+
+🔰 First Install the library: pip install yt_dlp
 
 # Features:
 Multi-Platform Support: Download videos from YouTube, Facebook, and TikTok.
